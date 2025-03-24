@@ -1,0 +1,12 @@
+To approach a data analytics project from a business perspective, first step is to understand the business's goals and objectives.
+
+Understanding Business needs:
+  - what is the business trying to acheive?
+  - identify the key stakeholders and understand pain points.
+  - to understand KPIs
+  - to undersatand who will be the target audience.
+
+In terms of gathering Requirements:
+  - need to have few open ended questions like: 
+      - what business questions we have to answer with our data?
+      - what data sources wer already have and any new data source required
