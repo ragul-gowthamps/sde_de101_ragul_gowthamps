@@ -14,4 +14,4 @@ In terms of gathering Requirements:
       - is it batch or streaming or both?
       - if its batch how often we receive data?
       - do we have BI application at the end which we pull data from a warehouse
-      
+      - what data architecture we will go about ?
